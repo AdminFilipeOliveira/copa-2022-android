@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "me.dio.copa.catar.app-merged_res-47:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "me.dio.copa.catar.app-main-49:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "me.dio.copa.catar.app-merged_res-47:/drawable_ic_notifications_active.xml.flat",
+        "source": "me.dio.copa.catar.app-main-49:/drawable/ic_notifications_active.xml"
+    },
+    {
+        "merged": "me.dio.copa.catar.app-merged_res-47:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "me.dio.copa.catar.app-main-49:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "me.dio.copa.catar.app-merged_res-47:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "me.dio.copa.catar.app-main-49:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "me.dio.copa.catar.app-merged_res-47:/xml_backup_rules.xml.flat",
+        "source": "me.dio.copa.catar.app-main-49:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "me.dio.copa.catar.app-merged_res-47:/xml_data_extraction_rules.xml.flat",
+        "source": "me.dio.copa.catar.app-main-49:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "me.dio.copa.catar.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "me.dio.copa.catar.app-main-49:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "me.dio.copa.catar.app-merged_res-47:/drawable_ic_notifications.xml.flat",
+        "source": "me.dio.copa.catar.app-main-49:/drawable/ic_notifications.xml"
+    },
+    {
+        "merged": "me.dio.copa.catar.app-merged_res-47:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "me.dio.copa.catar.app-main-49:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "me.dio.copa.catar.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "me.dio.copa.catar.app-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "me.dio.copa.catar.app-merged_res-47:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "me.dio.copa.catar.app-main-49:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "me.dio.copa.catar.app-merged_res-47:/drawable_ic_launcher_background.xml.flat",
+        "source": "me.dio.copa.catar.app-main-49:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "me.dio.copa.catar.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "me.dio.copa.catar.app-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "me.dio.copa.catar.app-merged_res-47:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "me.dio.copa.catar.app-main-49:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "me.dio.copa.catar.app-merged_res-47:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "me.dio.copa.catar.app-main-49:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "me.dio.copa.catar.app-merged_res-47:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "me.dio.copa.catar.app-main-49:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "me.dio.copa.catar.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "me.dio.copa.catar.app-main-49:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "me.dio.copa.catar.app-merged_res-47:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "me.dio.copa.catar.app-main-49:/mipmap-xhdpi/ic_launcher.webp"
+    }
+]
